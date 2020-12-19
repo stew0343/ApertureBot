@@ -1,1 +1,3 @@
-# ApertureBot v1
+# Aperture Bot 
+
+## Authors: Michelle Stewart and Andrew Brown
